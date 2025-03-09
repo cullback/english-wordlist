@@ -1,7 +1,7 @@
 # English world list
 
 - english word list, sorted by frequency
-- subset of <https://fasttext.cc>
+- subset of 2M word vector list from <https://fasttext.cc>
 
 ## Generation
 
