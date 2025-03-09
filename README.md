@@ -1,4 +1,4 @@
-# English world list
+# English word list
 
 - english word list, sorted by frequency
 - subset of 2M word vector list from <https://fasttext.cc>
